@@ -1,0 +1,26 @@
+#avatar-overlay{
+  width:175px;
+  height:175px;
+  top:12px;
+  left:12px;
+}
+.about-me-icon{
+  float: left;
+  margin-left:10px
+}
+form.contact{
+  text-align: center;
+}
+form.contact input,form.contact textarea{
+  font-size:1.3em;
+  width:80%;
+  display: inline-block;
+  margin: 10px auto;
+}
+
+form.contact textarea{
+  min-height:120px;
+}
+form.contact input[type=submit]{
+  width: 200px;
+}
