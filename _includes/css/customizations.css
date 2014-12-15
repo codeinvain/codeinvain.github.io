@@ -24,3 +24,13 @@ form.contact textarea{
 form.contact input[type=submit]{
   width: 200px;
 }
+
+.fa-faceb00k:before {
+  content: "\f09a";
+}
+
+.fa-l1nked1n:before {
+  content: "\f0e1";
+}
+
+
